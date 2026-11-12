@@ -8,6 +8,8 @@ Free, and it stays out of your way in the menu bar or the system tray.
 
 [macOS 13+](https://lovearound.me/download/LoveAround.dmg) · [Windows 10 and 11](https://lovearound.me/download/LoveAroundSetup.exe) · [Ubuntu 24.04+ (preview)](https://lovearound.me/download/LoveAround.deb)
 
+Or right in your browser at [app.lovearound.me](https://app.lovearound.me): hearts reach you there while the tab is open.
+
 ### Repositories
 
 | | |
@@ -15,4 +17,5 @@ Free, and it stays out of your way in the menu bar or the system tray.
 | [**mac**](https://github.com/lovearound-me/mac) | The menu bar app, in Swift |
 | [**windows**](https://github.com/lovearound-me/windows) | The tray app, with Tauri 2 and Rust |
 | [**linux**](https://github.com/lovearound-me/linux) | The tray app, with Python and GTK 3, plus a GNOME Shell extension |
+| [**web**](https://github.com/lovearound-me/web) | [app.lovearound.me](https://app.lovearound.me), the app in a browser tab, in plain JavaScript |
 | [**site**](https://github.com/lovearound-me/site) | [lovearound.me](https://lovearound.me) in 13 languages, with the API docs |
